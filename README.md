@@ -1,6 +1,6 @@
 ### Hi there 👋
 💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Senior iOS Developer and a Ruby on Rails Developer. <br/>
-💬 I'm currently working as a CTO & Co-Founder of World's first Delivery PaaS [BARQ Fleet](https://www.barqfleet.com/).
+💬 I'm currently working as a Founder, CTO & Head of Product at BARQ, Bullet Delivery PaaS [BARQ Fleet](https://www.barqfleet.com/).
 
 #### ⚡ What do I do at [BARQ Fleet](https://www.barqfleet.com/)?
 - Build and Maintain iOS Apps
