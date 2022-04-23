@@ -7,13 +7,16 @@
 [![Years Badge](https://badges.pufler.dev/gists/kaakati)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/kaakati/Kaakati)](https://badges.pufler.dev)
 
-#### ⚡ What do I do at [BARQ Fleet](https://www.barqfleet.com/)?
+#### What do [Kaakati](https://www.kaakati.me/) usually do?
+- Ruby On Rails / Laravel Development (Backend, Front-end)
 - Build and Maintain iOS Apps
 - Build and Maintain React Native Apps
-- Ruby On Rails / Laravel Development (Backend, Front-end)
 - Backend Development (GraphQL, RESTful)
-- GraphQL & Apollo Client
-- AWS DevOps
+- Dockerizing Projects
+- AWS DevOps: Maintaining EC2, RDS, ECR, ECS, Route53 and S3.
+- Monitoring Servers/Database Performances.
+- Department Budgeting and Team Structuring.
+- Code Reviews & Suggestions.
 - [UI & UX Design](https://www.dribbble.com/kaakati)
 - Product Managment
 
