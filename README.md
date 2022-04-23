@@ -1,6 +1,6 @@
 ### Hi there 👋
-💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Senior iOS Developer and a Ruby on Rails Developer. <br/>
-💬 I'm currently working as a Founder, CTO & Head of Product at BARQ, Bullet Delivery PaaS [BARQ Fleet](https://www.barqfleet.com/).
+💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Senior iOS Developer, Ruby on Rails Developer, Laravel Developer. <br/>
+💬 I'm currently working on my next new project, Previously I Founded, and was a CTO & Head of Product at BARQ, a Bullet Delivery PaaS [BARQ App](https://www.barqapp.com/).
 
 [![Years Badge](https://badges.pufler.dev/years/kaakati)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/repos/kaakati)](https://badges.pufler.dev)
@@ -10,7 +10,7 @@
 #### ⚡ What do I do at [BARQ Fleet](https://www.barqfleet.com/)?
 - Build and Maintain iOS Apps
 - Build and Maintain React Native Apps
-- Ruby On Rails Development (Backend, Front-end)
+- Ruby On Rails / Laravel Development (Backend, Front-end)
 - Backend Development (GraphQL, RESTful)
 - GraphQL & Apollo Client
 - AWS DevOps
