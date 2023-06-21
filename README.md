@@ -1,29 +1,33 @@
 ### Hi there 👋
-💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Ruby on Rails Developer & Consultant. <br/>
-💬 I'm currently working on my next new project, Previously I Founded, and was a CTO & Head of Product at BARQ, a Bullet Delivery PaaS [BARQ App](https://www.barqapp.com/).
+I'm [Mohamad Kaakati](http://www.kaakati.me/) <br/>
+Senior Software Engineer and Consultant. 
+---
+With a background as the former Founder, CTO, and Head of Product at BARQ App, a leading bullet delivery service, I bring extensive expertise in logistics, last-mile delivery, and e-commerce. My specialization lies in successfully navigating the intricacies of these domains. You can find more information about BARQ App by visiting [BARQ App](https://www.barqapp.com/).
 
-[![Years Badge](https://badges.pufler.dev/years/kaakati)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/kaakati/Kaakati)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/kaakati)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/repos/kaakati)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/gists/kaakati)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/kaakati/Kaakati)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/kaakati/Kaakati)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/kaakati)](https://badges.pufler.dev)
 
 #### What do [Kaakati](https://www.kaakati.me/) usually do?
-- Ruby On Rails Development
-- Backend Development (GraphQL, RESTful)
-- Build and Maintain iOS Apps
-- Build and Maintain React Native Apps
-- Dockerizing Projects
-- AWS DevOps: Maintaining EC2, RDS, ECR, ECS, Route53 and S3.
-- Monitoring Servers/Database Performances.
-- Department Budgeting and Team Structuring.
-- Code Reviews & Suggestions.
+- Expert Ruby on Rails Developer: Specializing in developing scalable and efficient web applications using the Ruby on Rails framework, ensuring high-quality code and seamless user experiences.
+- Advanced Backend Development: Proficient in building robust backend systems using modern technologies like GraphQL and RESTful APIs, empowering smooth data flow and optimal communication between client and server.
+- iOS App Development Excellence: Skilled in creating and maintaining cutting-edge iOS applications, employing the latest technologies and design principles to deliver exceptional user interfaces and functionalities.
+- Cross-Platform App Development: Proficient in building and maintaining versatile React Native applications, ensuring seamless performance across multiple platforms while minimizing development time and costs.
+- Dockerization and Containerization Expertise: Experienced in Dockerizing projects, enabling efficient deployment, scalability, and management of applications in isolated environments, enhancing portability and ease of maintenance.
+- AWS DevOps Mastery: Proficient in AWS DevOps practices, responsible for maintaining and optimizing essential services such as EC2, RDS, ECR, ECS, Route53, and S3, ensuring secure, reliable, and highly available infrastructures.
+- Performance Monitoring and Optimization: Skilled in monitoring server and database performance, implementing proactive measures to identify and resolve bottlenecks, ensuring optimal system performance and user satisfaction.
+- Budget Planning and Team Development: Experienced in effectively managing department budgets and structuring teams, utilizing strategic planning and resource allocation to drive productivity, collaboration, and success.
+- Thorough Code Reviews and Suggestions: Diligent in performing comprehensive code reviews, providing insightful feedback and suggestions to enhance code quality, maintainability, and adherence to best practices, fostering continuous improvement and growth.
 - [UI & UX Design](https://www.dribbble.com/kaakati)
-- Product Managment
+- Product Management Expertise: Proficient in product management, leveraging a strategic and customer-focused approach to drive the successful development and launch of innovative software solutions. Skilled in gathering and analyzing market data, defining product requirements, and collaborating with cross-functional teams to deliver valuable and user-centric products.
 
 ![Kaakati's github stats](https://github-readme-stats.vercel.app/api?username=kaakati&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaakati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Don't Forget to Checkout
+#### Mohamad's Contributions to the community
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=MVVM-Template-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=VIPER-Module-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=Realm-and-Swift-Codable)](https://github.com/anuraghazra/github-readme-stats)
