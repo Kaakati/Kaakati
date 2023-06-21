@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Senior iOS Developer, Ruby on Rails Developer, Laravel Developer. <br/>
+💬 I'm [Mohamad Kaakati](http://www.kaakati.me/) a Ruby on Rails Developer & Consultant. <br/>
 💬 I'm currently working on my next new project, Previously I Founded, and was a CTO & Head of Product at BARQ, a Bullet Delivery PaaS [BARQ App](https://www.barqapp.com/).
 
 [![Years Badge](https://badges.pufler.dev/years/kaakati)](https://badges.pufler.dev)
@@ -8,10 +8,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kaakati/Kaakati)](https://badges.pufler.dev)
 
 #### What do [Kaakati](https://www.kaakati.me/) usually do?
-- Ruby On Rails / Laravel Development (Backend, Front-end)
+- Ruby On Rails Development
+- Backend Development (GraphQL, RESTful)
 - Build and Maintain iOS Apps
 - Build and Maintain React Native Apps
-- Backend Development (GraphQL, RESTful)
 - Dockerizing Projects
 - AWS DevOps: Maintaining EC2, RDS, ECR, ECS, Route53 and S3.
 - Monitoring Servers/Database Performances.
