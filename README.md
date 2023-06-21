@@ -27,15 +27,16 @@ With a background as the former Founder, CTO, and Head of Product at BARQ App, a
 ![Kaakati's github stats](https://github-readme-stats.vercel.app/api?username=kaakati&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaakati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My prefered Languages, Frameworks & Tools
+<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" height="65px"> |  <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3-1175113.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png" height="65px"> |<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" height="65px"> | <img src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2752139-2284956.png" height="65px">
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
+ Ruby | Rails | Swift | Javascript | ReactNative | GraphQL | DevOps | Laravel
+
+
 #### Mohamad's Contributions to the community
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=MVVM-Template-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=VIPER-Module-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=Realm-and-Swift-Codable)](https://github.com/anuraghazra/github-readme-stats)
-
-### My prefered Languages, Frameworks & Tools
-<img src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3-1175113.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" height="65px"> | <img src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" height="65px"> | <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2752139-2284956.png" height="65px">
------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
-Swift | Ruby | Rails | Javascript | React Native | GraphQL | DevOps | Laravel
 
 <!--
 **Kaakati/Kaakati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
