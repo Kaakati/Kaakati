@@ -34,6 +34,7 @@ With a background as the former Founder, CTO, and Head of Product at BARQ App, a
 
 
 #### Mohamad's Contributions to the community
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=hyperpay_ruby)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=MVVM-Template-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=VIPER-Module-Generator)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaakati&repo=Realm-and-Swift-Codable)](https://github.com/anuraghazra/github-readme-stats)
